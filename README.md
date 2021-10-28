@@ -1,5 +1,6 @@
 # JAVA-PRACTICE
 @String and StringBuffer and StringBuilder
+
 String object are immutable and StringBuffer are mutable. ( == and equals ) == is used for referene comparision only and equals is used for content comparision. but when it comes to the stringbuffer both methods act as reference comparison.
 JAVA people peovide special memory management called SCP for string because they are oftenly used. furthermore, all the wrapper class objects are immutable like int, float and etc...
 
