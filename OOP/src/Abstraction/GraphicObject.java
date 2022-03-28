@@ -2,6 +2,8 @@ package Abstraction;
 
 // abstract classes can have both abstract methods and normal methods
 // but interfaces can't have both ones only it can have abstract methods
+// abstract classes can't be instantiated
+// multiple classes can't be inherited using classes. for that we are using Interfaces
 public abstract class GraphicObject {
     private int x,y;
 
