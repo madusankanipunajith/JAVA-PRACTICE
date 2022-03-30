@@ -1,4 +1,4 @@
-package Abstraction;
+package Abstraction.EX01;
 
 // abstract classes can have both abstract methods and normal methods
 // but interfaces can't have both ones only it can have abstract methods

@@ -11,5 +11,8 @@ public class MountainBike extends Bicycle{
     public void setSeatHeight(int value){
         this.seatHeight = value;
     }
+    public void x(){
+        this.speed = 1000;
+    }
 
 }

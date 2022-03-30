@@ -8,5 +8,7 @@ public class Demo {
         System.out.println("Seat Height is "+ bike.seatHeight);
         bike.applyBreak(1);
         System.out.println("Speed after breaking is "+ bike.speed);
+        bike.x();
+        System.out.println("New speed is "+ bike.speed);
     }
 }

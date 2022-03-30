@@ -1,6 +1,8 @@
-package Abstraction;
+package Abstraction.EX01;
 
-public class Rectangle extends GraphicObject{
+import Abstraction.EX01.GraphicObject;
+
+public class Rectangle extends GraphicObject {
     @Override
     void draw() {
         System.out.println("Drawing a rectangle");
