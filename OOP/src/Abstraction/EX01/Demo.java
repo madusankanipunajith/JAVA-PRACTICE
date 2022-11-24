@@ -9,5 +9,8 @@ public class Demo {
         GraphicObject rectangle = new Rectangle();
         rectangle.resize();
         rectangle.draw();
+
+        GraphicObject test;
+        System.out.println();
     }
 }
